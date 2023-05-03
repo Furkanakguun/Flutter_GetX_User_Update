@@ -3,6 +3,5 @@
 A new Flutter project. Using GetX stata management package.
 Using this library, we see the state change of instant variables and the power of getx with the observer pattern.
 
-![Screenshot 2023-05-03 at 15 50 03](https://user-images.githubusercontent.com/45063194/235920876-5665a88a-7e6f-4413-8f6b-9730fabe016c.png)
-
-![Screenshot 2023-05-03 at 15 50 15](https://user-images.githubusercontent.com/45063194/235920931-ec2ccd46-4097-43ea-8b82-27601289a953.png)
+![simulator_screenshot_531BE467-CC77-40F6-96F7-19B34D6B5B10](https://user-images.githubusercontent.com/45063194/235921068-45bd0a64-d3c5-4acd-aa12-5f0297ca65c8.png)
+![simulator_screenshot_BDEF2353-29B3-4DF5-8283-0EF19A45282A](https://user-images.githubusercontent.com/45063194/235921102-6f9c27b4-f18b-4254-926d-b0e2d9992a39.png)
